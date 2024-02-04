@@ -12,11 +12,9 @@ The idea is similar to the google search results for a movie.
 On the results page, the sidebar has the ratings for the movie by Rotten Tomatoes AND IMDb.
 Getting more information at the same time is far more efficient than having to visit multiple sites.
 
-<p float="left">
-  # How does it do it?
-  The webpage is written in HTML, CSS, and JS.
-  We found and organized datasets from four different apps and retrieved restaurant names and ratings from them.
-  ![image](https://github.com/prophet18/OmniEats/assets/91926522/00cd652f-c120-4486-a2b8-5bfdaede5fd6)
-</p>
-
-
+| How does it do it? | OmniRating Logo |
+| --- | --- |
+| The webpage is written in HTML, CSS, and JS. | ![image](https://github.com/prophet18/OmniEats/assets/91926522/00cd652f-c120-4486-a2b8-5bfdaede5fd6) |
+  
+We found and organized datasets from four different apps and retrieved restaurant names and ratings from them.
+  
