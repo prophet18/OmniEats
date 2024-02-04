@@ -1,4 +1,4 @@
-file:///home/eris/GitHub/OmniEats/Contents/omnilogobg.png![image](https://github.com/prophet18/OmniEats/assets/91926522/2929e073-e42c-4ebb-a4c6-4409d94aa31b)
+[image](https://github.com/prophet18/OmniEats/assets/91926522/0d9134ed-8217-4626-829f-31f3ec688166)
 
 # OmniEats
 Why waste time searching for food reviews? OmniEats provides them all!
@@ -16,4 +16,7 @@ Finding good food should be fast, easy, and convenient. We hope OE (OmniEats) fu
 The idea is similar to the google search results for a movie.
 On the results page, the sidebar has the ratings for the movie by Rotten Tomatoes AND IMDb.
 Getting more information at the same time is far more efficient than having to visit multiple sites.
+
+[image](https://github.com/prophet18/OmniEats/assets/91926522/00cd652f-c120-4486-a2b8-5bfdaede5fd6)
+
 
